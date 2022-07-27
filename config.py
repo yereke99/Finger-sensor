@@ -1,0 +1,3 @@
+token_api = '5337864906:AAEhDYTC1GEteUSA2DyolNBa9G5kaMGDBvI'
+
+id_admin = 800703982
