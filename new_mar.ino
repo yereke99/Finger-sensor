@@ -1,3 +1,4 @@
+// Code to ESP8266 NodeMCu
 #include <ESP8266WiFi.h>          // Үйдегі wifi - ға қосылуға арналған кітапхана
 #include <ESP8266WebServer.h>     // Веб-сервер көтеруге арналған кітапхана
 #include <Adafruit_Fingerprint.h> // Саусақ ізін сканерлейтін датчиктің кітапханасы
